@@ -2,24 +2,19 @@
 
 
 ## 🔭 About ME
- - 🎓 Enrolled in the Code, Cloud and Cyber Security Bootcamp at Coder Academy
- - 🔪 Transitioning out of Hospitality
- - 📷 Photography enthusiast
- - ✈️ From Montreal, Canada living in Melbourne, Australia
-
+ - 🎓 Diploma of IT @ Code, Cloud and Cyber Security Bootcamp (March 2021, Coder Academy)
+ - 🔪 Transitioning out of Hospitality 
+ - 📷 Photography Enthusiast
+ - 🍁 From Montreal, Canada
 
 ## ✨ Currently
+ -💻 Working on an Instagram clone, Research Projects on Youtube
+ -🛠 Learning Python, AWS 
+ -🔗 Meetup Groups: DevCop Melbourne
+ -🐊 Living in Melbourne, Australia
 
-_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- are some ideas to get you started:
-🔭
--  I’m currently working on an Instagram clone
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 🌐 Find me
+- 📂 [Portfolio site](seanremenyi.dev)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
