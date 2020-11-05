@@ -18,4 +18,4 @@
 - 🐤 Twitter: [@RemenyiSean](https://twitter.com/RemenyiSean)
 - 👥 LinkedIn: [Sean Remenyi](https://www.linkedin.com/in/sean-remenyi-4131731aa/)
 - 📺 Youtube: [AppleSee](https://www.youtube.com/channel/UC0-KQv4V0leOmu5HLceCZDA)
-- 📓 Medium: [@SeanRemenyi](https://medium.com/@sean.remenyi)
+- 📓 Medium: [@SeanRemenyi](https://sean-remenyi.medium.com/)
