@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sean
+### Hey! 👋 I'm Sean
 
 
 ## 😀 About ME
