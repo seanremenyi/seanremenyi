@@ -9,7 +9,7 @@
 
 ## ✨ Currently
  - 💻 Working on an Instagram clone, Research Projects on Youtube
- - 🛠 Learning Python, AWS 
+ - 🛠 Python, AWS, Flask 
  - 🔗 Meetup Groups: DevCop Melbourne
  - 🐊 Living in Melbourne, Australia
 
