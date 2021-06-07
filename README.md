@@ -2,7 +2,7 @@
 
 
 ## 😀 About ME
- - 🎓 Advanced Diploma of IT
+ - 🎓 Diploma of IT
  - 🔪 Ex-chef of 12 years
  - 📷 Photography Enthusiast
  - 🍁 From Montreal, Canada
