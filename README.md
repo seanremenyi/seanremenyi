@@ -9,8 +9,8 @@
 
 ## ✨ Currently
  - 💻 Working as a Cloud Engineer for NAB
- - 🛠 Python, AWS, Flask, Terraform, Bash
- - 🔗 Meetup Groups: DevCop Melbourne
+ - 🛠 Python, AWS, Flask, Terraform, Bash, HTML, CSS
+ - 🔗 Meetup Groups: DevCop Melbourne, AWS Programming and Tools
  - 🐊 Living in Melbourne, Australia
 
 ## 🌐 Find me
