@@ -8,7 +8,7 @@
  - 🍁 From Montreal, Canada
 
 ## ✨ Currently
- - 💻 Working as a Cloud Engineer for NAB
+ - 💻 Working as a Cloud Consultant at Deloitte
  - 🛠 Python, AWS, Flask, Terraform, Bash, HTML, CSS
  - 🔗 Meetup Groups: DevCop Melbourne, AWS Programming and Tools
  - 🐊 Living in Melbourne, Australia
