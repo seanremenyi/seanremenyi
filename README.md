@@ -8,14 +8,8 @@
  - 🍁 From Montreal, Canada
 
 ## ✨ Currently
- - 💻 Working as a Cloud Consultant at Deloitte
- - 🛠 Python, AWS, Terraform, Bash, HTML, CSS
+ - 💻 Working as an Infrastructure Engineer
+ - 🛠 Python, AWS, Terraform, Docker
  - 🔗 Meetup Groups: DevCop Melbourne, AWS Programming and Tools
- - 🐊 Living in Melbourne, Australia
+ - 🐊 Living in Copenhagen, Denmark
 
-## 🌐 Find me
-- 📂 Portfolio Website [seanremenyi.dev](seanremenyi.dev)
-- 🐤 Twitter: [@RemenyiSean](https://twitter.com/RemenyiSean)
-- 👥 LinkedIn: [Sean Remenyi](https://www.linkedin.com/in/sean-remenyi)
-- 📺 Youtube: [AppleSee](https://www.youtube.com/channel/UC0-KQv4V0leOmu5HLceCZDA)
-- 📓 Medium: [@SeanRemenyi](https://sean-remenyi.medium.com/)
